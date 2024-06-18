@@ -1,4 +1,4 @@
-Textutils is a web application for text analysis, offering features like case conversion, space management, text copying, summaries, word and character counts, reading time estimation, and text previews.
+Textutils is a sophisticated web application designed for comprehensive text analysis. It offers a variety of functionalities including converting text to uppercase, lowercase, and inverse case, managing extra spaces, copying text, and generating text summaries. Additionally, it provides word and character counts, estimates reading time, and offers text previews.
 
 -Home Page
 
